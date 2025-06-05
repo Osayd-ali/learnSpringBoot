@@ -21,7 +21,8 @@ public class CourseController {
         return Arrays.asList(
             new Course(1, "Learn Spring Boot", "John Doe"),
             new Course(2, "Learn Java", "Jane Doe"),
-            new Course(3, "Learn Python", "Alice Smith")
+            new Course(3, "Learn Python", "Alice Smith"),
+            new Course(4, "Learn JavaScript", "Bob Johnson")
         );
     }
 }
