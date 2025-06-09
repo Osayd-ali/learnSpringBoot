@@ -23,7 +23,7 @@ public class CourseController {
             new Course(2, "Java", "Jane Doe"),
             new Course(3, "Python", "Alice Smith"),
             new Course(4, "JavaScript", "Bob Johnson"),
-            new Course(6, "Learn JavaScript", "Bob Johnson")
+            new Course(6, "Learn, JavaScript", "Bob Johnson")
         );
     }
 }
