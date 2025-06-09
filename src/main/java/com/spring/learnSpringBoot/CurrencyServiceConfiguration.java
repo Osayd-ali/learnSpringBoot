@@ -35,6 +35,6 @@ public class CurrencyServiceConfiguration{
     }
     @Override
     public String toString() {
-        return "CurrencyServiceConfiguration [url: =" + url + '\'' + ", username=" + username + '\'' + ", key=" + key + "]";
+        return "CurrencyServiceConfiguration [url: " + url + '\'' + ", username: " + username + '\'' + ", key: " + key + "]";
     }
 }
